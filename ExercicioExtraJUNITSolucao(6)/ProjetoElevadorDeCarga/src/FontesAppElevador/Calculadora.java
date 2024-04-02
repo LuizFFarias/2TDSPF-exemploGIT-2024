@@ -1,6 +1,7 @@
 package FontesAppElevador;
 
 //Calculadora aritmética de apoio para estimar a carga do elevador
+//Faz soma e subtração
 public class Calculadora {
 
 	//Atributo de resultado de cálculo
